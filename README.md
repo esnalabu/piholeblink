@@ -1,6 +1,6 @@
 ## Piholeblink
 
-Bash script for blinking a led for each ad blocked by PiHole. Requires a Raspberry PI running [PiHole](https://github.com/dstinebaugh/pihole-led/ PiHole). Repo also contains a script for making piholeblink run as a daemon, an a logrotate script. Default pin is physical pin 12(GPIO pin 18).
+Bash script for blinking a led for each ad blocked by PiHole. Requires a Raspberry PI running [PiHole](https://github.com/dstinebaugh/pihole-led/ PiHole). Repo also contains links to a script for making piholeblink run as a daemon, an a logrotate script. Default pin is physical pin 12(GPIO pin 18).
 
 Inspired by on a script by twotonefox found here:
   https://discourse.pi-hole.net/t/add-gpio-pins-for-led-on-blocked-ad-alerts/53/5
